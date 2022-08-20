@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web3 automation in general!
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=radical) 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=tokyonight) 
 
 
 <!--

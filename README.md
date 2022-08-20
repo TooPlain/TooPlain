@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a NFT automations tool!
+- 🌱 I’m currently learning Xaml
+- 👯 I’m looking to collaborate on web3 automation in general!
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true)
+
+
 <!--
 **TooPlain/TooPlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

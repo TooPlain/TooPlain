@@ -1,7 +1,7 @@
 ### Hi there 👋 Hope your Having a great day thanks for visiting my profile!
 
 - 🔭 I’m currently working on a NFT automations tool!
-- 🌱 I’m currently learning Xaml
+- 🌱 I’m currently learning Xaml and Swift/SwiftUI
 - 👯 I’m looking to collaborate on web3 automation in general!
 
 

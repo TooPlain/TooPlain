@@ -1,8 +1,8 @@
-### Hi there 👋 Hope your Having a great day thanks for visiting my profile!
+### Hey there 👋 Hope your Having a great day thanks for visiting my profile!
 
-- 🔭 I’m currently working on a NFT automations tool!
-- 🌱 I’m currently learning Xaml and Swift/SwiftUI
-- 👯 I’m looking to collaborate on web3 automation in general!
+- 🔭 I’m currently working on a new venture lol
+- 🌱 I’m currently learning Xaml/Swift/SwiftUI/PHP/lil' bit of js :P
+
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=tokyonight) 

@@ -6,8 +6,9 @@
 - 🔭 I’m currently working on a iOS Print App with ML image generation 
 - 🌱 I’m currently learning Swift/SwiftUI/PHP/lil' bit of js :P
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=tokyonight) 
+![My GitHub stats](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=tokyonight&hide_border=true) 
 
+[![Top Langs](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api/top-langs/?username=TooPlain)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TooPlain/TooPlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

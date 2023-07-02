@@ -1,10 +1,11 @@
 ### Hey there 👋 Hope your Having a great day thanks for visiting my profile!
 
-- 🔭 I’m currently working on a new venture lol
-- 🌱 I’m currently learning Xaml/Swift/SwiftUI/PHP/lil' bit of js :P
-
-
-
+- 😄 Pronouns: He/Him
+- 💬 Ask me about C++, and Java pretty fluent in both :)
+- 📫 How to reach me: TooPlain@galbo.io
+- 🔭 I’m currently working on a iOS Print App with ML image generation 
+- 🌱 I’m currently learning Swift/SwiftUI/PHP/lil' bit of js :P
+  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TooPlain&count_private=true&show_icons=true&theme=tokyonight) 
 
 

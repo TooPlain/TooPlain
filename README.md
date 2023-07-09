@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a iOS Print App with ML image generation 
 - 🌱 I’m currently learning Swift/SwiftUI/PHP/lil' bit of js :P
   
-[![My GitHub stats](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api?username=TooPlain&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api?username=TooPlain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api/top-langs/?username=TooPlain)](https://github.com/anuraghazra/github-readme-stats)
 [![TooPlain's wakatime stats](https://github-readme-stats-instance-nzwk8leku-tooplain.vercel.app/api/wakatime?username=TooPlain)](https://github.com/anuraghazra/github-readme-stats)
 

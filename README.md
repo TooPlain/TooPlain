@@ -2,7 +2,6 @@
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about C++, and Java pretty fluent in both :)
-- 📫 How to reach me: TooPlain@galbo.io
 - 🔭 I’m currently working on a iOS Print App with ML image generation 
 - 🌱 I’m currently learning Swift/SwiftUI/PHP/lil' bit of js :P
   

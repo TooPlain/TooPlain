@@ -3,10 +3,7 @@
 - 😄 Pronouns: He/Him
 - 💬 Ask me about C++, and Java pretty fluent in both :)
 - 🔭 I’m currently working on a iOS Print App with ML image generation 
-- 🌱 I’m currently learning Swift/SwiftUI/PHP/lil' bit of js :P
-  
-[![My GitHub stats](https://github-readme-stats-instance-git-main-tooplain.vercel.app/api?username=TooPlain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![TooPlain's wakatime stats](https://github-readme-stats-instance-git-main-tooplain.vercel.app/api/wakatime?username=TooPlain)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Swift/SwiftUI Concepts/PHP/C#
 
 <!--
 **TooPlain/TooPlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

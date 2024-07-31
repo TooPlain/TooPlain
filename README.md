@@ -1,4 +1,5 @@
 ### Hey there 👋 Hope your Having a great day thanks for visiting my profile!
+[![wakatime](https://wakatime.com/badge/user/9cabb579-a7c5-4976-a214-8ca4b23bcbc9.svg)](https://wakatime.com/@9cabb579-a7c5-4976-a214-8ca4b23bcbc9)
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about C++, and Java pretty fluent in both :)

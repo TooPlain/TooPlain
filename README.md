@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about C++, and Java pretty fluent in both :)
-- 🔭 I’m currently working on a iOS Print App with ML image generation 
+- 🔭 I’m currently working on Stylized an iOS App 🤫 
 - 🌱 I’m currently learning Swift/SwiftUI Concepts/PHP/C#
 
 <!--
